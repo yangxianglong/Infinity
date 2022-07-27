@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    /* 定义了如何计算一个元素的总宽度和高度，主要设置是否需要加上内边距（padding）和边框（border）等。 */
     font-family: 'Poppins', sans-serif;
 }
 
@@ -17,6 +18,7 @@ body {
 
 .card {
     position: relative;
+    /* 指定了元素的定位类型 */
     width: 350px;
     height: 190px;
     background-color: #fff;
